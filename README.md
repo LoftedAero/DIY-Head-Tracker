@@ -1,7 +1,7 @@
 # DIY-Head-Tracker
 Head tracker for RC FPV purposes. Project father: Denis Frie.
 
-The purpose of this repository is to make stable platform for future development of the great work started by Denis Frie.
+Forked from Jacek Wielogorski's repository for the purpose of adding support for the Lofted Aero 'Smart Tracker' hardware based on Atmega32u4 and ICM20948.
 
 ## Basic setup
 Head Tracker (HT) is installed on FPV gogles, weared on your head. It is connected to a trainer port of your RC transmitter and supplied from some power source. It uses from one to three servo channels for: yaw, tilt and rarely for roll.
@@ -30,6 +30,3 @@ http://www.rcgroups.com/forums/showthread.php?t=1677559
 - RCGroups user 'mric3412' : Version 1.07 contributor (2019)
 - Alexander ELtsyn - RCGroups 'AE_' : Version 1.08 (2019)
 - Jacek Wielogorski - RCGroups 'kniuk' : Version 1.09 (2020)
-
-## Collaboration
-Collaborators welcome, please feel free to contact kniuk@data.pl
